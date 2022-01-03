@@ -2,11 +2,13 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-fran%C3%A7a-6487a9193/)
 
+### GitHub Stats
+
 ![Luciano de França GitHub stats](https://github-readme-stats.vercel.app/api?username=lucianodefranca&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucianodefranca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀 Skills
+## 🚀 Languages ​​and Frameworks I Use and Study
 
 <div style="display: inline_block"><br/>
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -18,3 +20,5 @@
     <img alt="postgree" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
     <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 </div>
+
+
